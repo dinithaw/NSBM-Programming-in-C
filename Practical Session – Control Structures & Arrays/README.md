@@ -29,36 +29,6 @@
 8.  Declare two 3 x 3 square matrices and display the matrix sum.
     The following illustration shows the process of calculating the matrix sum. The values are used as samples.
 
-3
-2
-4
-
-2
-6
-3
-
-5
-8
-7
-1
-4
-6
-
-4
-3
-2
-
-5
-7
-8
-4
-3
-2
-
-5
-1
-7
-
-9
-4
-9
+    3 2 4       2 6 3       5 8 7
+    1 4 6   +   4 3 2   =   5 7 8
+    4 3 2       5 1 7       9 4 9
