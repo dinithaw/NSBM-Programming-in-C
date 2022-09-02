@@ -1,18 +1,18 @@
-Programming with C Language
-Practical Session – Control Structures & Arrays
+# Programming with C Language
+## Practical Session – Control Structures & Arrays
 
 1. Write a program to input an item number, description, price of a product, quantity, and display item number, description with the total price 
 
 
-Total price = price of a product * quantity
+    Total price = price of a product * quantity
 
 2. Write a program to an input birth year of a student and display the student is a ‘Teenager’ or ‘Not a Teenager’.
 
 3. Display each of the following number series using 1. While 2. Do while and 3. For loops
 
-    a. 1 2 3 4 …………..100
-    b. 50 45 40 …………...5
-    c. -2 -4 -6 ……………… -20
+        a. 1 2 3 4 …………..100
+        b. 50 45 40 …………...5
+        c. -2 -4 -6 ……………… -20
 
 4. Modify the program in Question 2 to display the ‘Teenager’ count of 10 students. (Use while loop)
 
@@ -27,7 +27,7 @@ Total price = price of a product * quantity
     IV. Reverse order of values
 
 8.  Declare two 3 x 3 square matrices and display the matrix sum.
-The following illustration shows the process of calculating the matrix sum. The values are used as samples.
+    The following illustration shows the process of calculating the matrix sum. The values are used as samples.
 
 3
 2
