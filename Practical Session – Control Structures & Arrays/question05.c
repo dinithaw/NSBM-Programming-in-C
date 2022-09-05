@@ -4,7 +4,7 @@
 int main() {
     float number, sum = 0;
 
-    printf("Enter the Values You Want to Add | Enter 'N' for Exit\n");
+    printf("Enter the Values You Want to Add | Enter '0' for Exit\n");
     do {
         printf(">>> ");
         scanf("%f",&number);
