@@ -1,6 +1,5 @@
 
-# Practical  = Number
-# Practice = Questions
+# Practice Questions
 # Areas covered : Functions
 
 
