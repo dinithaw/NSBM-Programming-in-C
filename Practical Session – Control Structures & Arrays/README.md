@@ -1,4 +1,4 @@
-## Programming with C Language
+## Programming in C Language
 # Practical Session – Control Structures & Arrays
 
 
